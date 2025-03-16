@@ -119,27 +119,24 @@ Senior Technical and Cybersecurity Engineer with expertise in network security, 
 
 ## 💼 Professional Experience
 
-### Senior Technical and Cybersecurity Engineer
-**Gavotech IT Solutions** | May 2024 - Present
-
+### Senior Technical and Cybersecurity Engineer  
+**Gavotech IT Solutions** | May 2024 - Present  
 - Configured Sophos XG and FortiGate firewalls, reducing network breaches by 30%
 - Conducted vulnerability scans with Nmap, Nikto, Tenable Nessus, Qualys, and Greenbone/OpenVAS
 - Led incident response efforts across cloud and on-premises environments
 - Implemented threat intelligence feeds and real-time monitoring solutions
 - Developed incident response playbooks and escalation procedures
 
-### Technical Engineer
-**Gavotech IT Solutions** | May 2022 - May 2024
-
+### Technical Engineer  
+**Gavotech IT Solutions** | May 2022 - May 2024  
 - Managed support operations for over 500 devices (Windows, macOS, Linux)
 - Configured Sophos XG and FortiGate firewalls, establishing detailed rules and NAT policies
 - Deployed Trend Micro Worry-Free for advanced endpoint protection
 - Utilized SentinelOne's AI-driven analytics to minimize incident response times
 - Monitored and optimized DHCP, DNS, and other critical network services
 
-### IT Technician / Data Capturer
-**Pragmatic Accounting Services** | February 2021 - March 2022
-
+### IT Technician / Data Capturer  
+**Pragmatic Accounting Services** | February 2021 - March 2022  
 - Managed bookkeeping processes for 15+ clients daily
 - Enhanced data retrieval workflows, improving efficiency by over 50%
 - Configured networks and maintained connectivity across 15+ devices
@@ -149,9 +146,9 @@ Senior Technical and Cybersecurity Engineer with expertise in network security, 
 
 ### Education
 - **Bachelor of Science - BSc in Cybersecurity** (In Progress, 2025-2029)  
-  IU International University of Applied Sciences
+  IU International University of Applied Sciences  
 - **National Senior Certificate** (2016-2020)  
-  Edenvale High School
+  Edenvale High School  
 
 ### Certifications
 - Sophos Firewall Certified Engineer (November 2024)
@@ -168,14 +165,4 @@ Senior Technical and Cybersecurity Engineer with expertise in network security, 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=garethsheldon&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=garethsheldon&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 📫 Contact Me
-
-- **Email:** garethmsheldon@gmail.com
-- **LinkedIn:** [linkedin.com/in/gareth-sheldon](https://www.linkedin.com/in/gareth-sheldon)
----
-
-<div align="center">
-  <p>Feel free to explore my projects and reach out if you have any questions or collaboration opportunities!</p>
 </div>
