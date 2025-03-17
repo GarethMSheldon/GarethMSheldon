@@ -1,110 +1,128 @@
-/* Global Styles */
+/* General Styles */
 body {
-    background-color: #0f172a;
-    color: #ffffff;
-    font-family: Arial, sans-serif;
-    text-align: center;
+    background-color: #000;
+    color: #00ff00;
+    font-family: 'Source Code Pro', monospace;
     margin: 0;
     padding: 0;
+    overflow: hidden;
 }
 
-/* Main Container */
-.container {
-    max-width: 600px;
+.terminal {
+    width: 80%;
+    max-width: 800px;
     margin: 50px auto;
-    padding: 20px;
+    background-color: #111;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.5);
 }
 
-/* Header */
-h1 {
-    font-size: 36px;
-    font-weight: bold;
+.terminal-header {
+    background-color: #222;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    display: flex;
+    align-items: center;
 }
 
-h2 {
-    font-size: 20px;
-    color: #3b82f6;
-    margin-bottom: 10px;
-}
-
-p {
-    font-size: 14px;
-    color: #cbd5e1;
-}
-
-/* Buttons */
-.buttons {
-    margin: 20px 0;
-}
-
-button {
-    border: none;
-    padding: 10px 20px;
-    font-size: 14px;
-    cursor: pointer;
-    margin: 5px;
-    border-radius: 6px;
-}
-
-.contact-btn {
-    background-color: #3b82f6;
-    color: #ffffff;
-}
-
-.projects-btn {
-    background-color: #ffffff;
-    color: #0f172a;
-}
-
-/* Profile Card */
-.profile-card {
-    background-color: #1e293b;
-    padding: 20px;
-    border-radius: 10px;
-    position: relative;
-    margin-top: 30px;
-}
-
-/* Blue Badge */
-.badge {
-    width: 15px;
-    height: 15px;
-    background-color: #3b82f6;
+.terminal-button {
+    width: 12px;
+    height: 12px;
     border-radius: 50%;
-    position: absolute;
-    top: -7px;
-    left: 50%;
-    transform: translateX(-50%);
+    margin-right: 5px;
 }
 
-/* Experience & Certifications */
-.info-box {
-    display: flex;
-    justify-content: space-around;
-    margin: 20px 0;
-}
+.terminal-button.red { background-color: #ff5f56; }
+.terminal-button.yellow { background-color: #ffbd2e; }
+.terminal-button.green { background-color: #27c93f; }
 
-h4 {
+.terminal-title {
+    flex-grow: 1;
+    text-align: center;
+    color: #00ff00;
     font-size: 14px;
-    color: #cbd5e1;
 }
 
-.bold-text {
-    font-size: 18px;
+.terminal-body {
+    padding: 20px;
+    height: 400px;
+    overflow-y: auto;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.typewriter h1 {
+    overflow: hidden;
+    border-right: 0.15em solid #00ff00;
+    white-space: nowrap;
+    margin: 0;
+    letter-spacing: 0.15em;
+    animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+    from { width: 0; }
+    to { width: 100%; }
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: #00ff00; }
+}
+
+.glitch {
+    animation: glitch 1s infinite;
+}
+
+@keyframes glitch {
+    0% { text-shadow: 0 0 5px #00ff00; }
+    25% { text-shadow: -2px -2px 5px #ff00ff; }
+    50% { text-shadow: 2px 2px 5px #00ffff; }
+    75% { text-shadow: -2px 2px 5px #ff00ff; }
+    100% { text-shadow: 2px -2px 5px #00ffff; }
+}
+
+.command-list {
+    margin-top: 20px;
+}
+
+.command {
+    color: #ff00ff;
     font-weight: bold;
 }
 
-/* Skills */
-.skills {
+.input-area {
     display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
 }
 
-.skills span {
-    background-color: #3b82f6;
-    padding: 5px 10px;
-    border-radius: 15px;
-    font-size: 12px;
+.prompt {
+    color: #00ff00;
+    margin-right: 5px;
+}
+
+#command-input {
+    background-color: transparent;
+    border: none;
+    color: #00ff00;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+    outline: none;
+    flex-grow: 1;
+}
+
+.response {
+    color: #00ffff;
+    margin-top: 10px;
+}
+
+a {
+    color: #ff00ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
 }
