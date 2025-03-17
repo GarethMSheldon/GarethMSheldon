@@ -1,0 +1,8 @@
+<footer>
+    <div class="social-links">
+        {% for link in site.social %}
+            <a href="{{ link.url }}" target="_blank">{{ link.name }}</a>
+        {% endfor %}
+    </div>
+    <p>&copy; {{ site.time | date: '%Y' }} Gareth Sheldon</p>
+</footer>
