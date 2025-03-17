@@ -1,0 +1,73 @@
+/* General Styles */
+body {
+    background-color: #000;
+    color: #00ff00;
+    font-family: 'Source Code Pro', monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.terminal {
+    width: 80%;
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #111;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgba(0, 255, 0, 0.5);
+}
+
+.terminal-header {
+    background-color: #222;
+    padding: 10px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.terminal-button {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.terminal-button.red { background-color: #ff5f56; }
+.terminal-button.yellow { background-color: #ffbd2e; }
+.terminal-button.green { background-color: #27c93f; }
+
+.terminal-title {
+    flex-grow: 1;
+    text-align: center;
+    color: #00ff00;
+    font-size: 14px;
+}
+
+.terminal-body {
+    padding: 20px;
+    height: 400px;
+    overflow-y: auto;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.input-area {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.prompt {
+    color: #00ff00;
+    margin-right: 5px;
+}
+
+#command-input {
+    background-color: transparent;
+    border: none;
+    color: #00ff00;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+    outline: none;
+    flex-grow: 1;
+}
