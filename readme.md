@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gareth-sheldon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://linktr.ee/garethmsheldon)
-[![HTB](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com)
+[![HTB](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1246812)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-|Summary|
+|  |  | |  |
 |---|---|---|---|
 | **5 yrs** | **30%** | **35%** | **Top 4.85%** |
 | Experience | Breach reduction | Malware incidents cut | HTB global rank |
