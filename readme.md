@@ -18,7 +18,8 @@
 
 <div align="center">
 
-| | | | |
+|Summary|
+|---|---|---|---|
 | **5 yrs** | **30%** | **35%** | **Top 4.85%** |
 | Experience | Breach reduction | Malware incidents cut | HTB global rank |
 
