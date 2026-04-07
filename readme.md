@@ -173,10 +173,11 @@ Advania UK (Mirus IT Solutions) · Cape Town · July 2025 – Present
 
 ## GitHub Stats
 
-![Gareth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GarethMSheldon&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GarethMSheldon&theme=blue_navy&hide_border=true&layout=compact)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=GarethMSheldon&theme=blue_navy&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GarethMSheldon&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=true" alt="Gareth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarethMSheldon&theme=blue_navy&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=GarethMSheldon&theme=blue_navy&hide_border=true" alt="Streak" />
+</div>
 ---
 
 <div align="center">
