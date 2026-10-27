@@ -4,7 +4,6 @@
 
 ### Turning fragmented threat data into resilient, auditable security systems.
 
-**Lead Technical Engineer @ Advania UK** · Cape Town, South Africa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gareth-sheldon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white)](https://linktr.ee/garethmsheldon)
