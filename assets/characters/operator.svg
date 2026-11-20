@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240">
+<rect width="240" height="240" rx="18" fill="#08110d"/><path d="M0 30H240M0 210H240" stroke="#17442d"/>
+<rect x="66" y="44" width="108" height="112" rx="18" fill="#182c24" stroke="#39ff14" stroke-width="4"/>
+<rect x="80" y="68" width="80" height="54" rx="8" fill="#07100c" stroke="#00bfff" stroke-width="3"/>
+<path d="M94 95L108 108L145 80" fill="none" stroke="#39ff14" stroke-width="7"/>
+<path d="M50 220V185Q50 150 120 150Q190 150 190 185V220" fill="#14241d" stroke="#39ff14" stroke-width="4"/>
+<text x="120" y="235" fill="#ffd700" font-family="monospace" font-size="12" text-anchor="middle">OPERATOR 001</text>
+</svg>
