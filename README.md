@@ -30,6 +30,7 @@ My work spans detection engineering, cloud and identity security, vulnerability 
 
 - **Role:** Lead Technical Engineer & Senior Service Desk Engineer
 - **Organisation:** Advania UK (Mirus IT Solutions)
+- **Location:** Cape Town
 - **Period:** July 2025 - Present
 - **Focus:** FinTech security incidents, EDR telemetry, KQL detection, Zero Trust, automation and compliance
 
