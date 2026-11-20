@@ -1,7 +1,7 @@
 <details>
-<summary><a name="arcade"><img src="assets/arcade/hero.svg" width="1200" height="540" alt="Gareth Sheldon - animated cyber security arcade title screen. Click to initialise the console." /></a></summary>
+<summary><a name="arcade"><img src="assets/arcade/hero.svg" width="100%" alt="Gareth Sheldon - animated cyber security arcade title screen. Click to initialise the console." /></a></summary>
 <br />
-<img src="assets/arcade/system-online.svg" width="1200" height="240" alt="Animated system online boot sequence." />
+<img src="assets/arcade/system-online.svg" width="100%" alt="Animated system online boot sequence." />
 
 **ARCADE MENU // PLAYER 001**
 
@@ -25,7 +25,7 @@
 The arcade is live. The threats are real. Every control needs to earn its place.
 
 <details>
-<summary><a name="quest"><img src="assets/arcade/quest-map.svg" width="1200" height="300" alt="Animated cyber security mission map: Cloud, Identity, Detection and AI Security. Click to select a route." /></a></summary>
+<summary><a name="quest"><img src="assets/arcade/quest-map.svg" width="100%" alt="Animated cyber security mission map: Cloud, Identity, Detection and AI Security. Click to select a route." /></a></summary>
 <br />
 **SELECT YOUR ROUTE**
 
@@ -36,7 +36,7 @@ The arcade is live. The threats are real. Every control needs to earn its place.
 - [Open-source projects](#mission-select)
 </details>
 
-## <a name="about"><img src="assets/arcade/h-about.svg" width="1200" height="76" alt="01 - Player Profile" /></a>
+## <a name="about"><img src="assets/arcade/h-about.svg" width="100%" alt="01 - Player Profile" /></a>
 
 I have more than five years of experience across IT operations, infrastructure and security, with the last two and a half years focused on information security and security engineering.
 
@@ -44,9 +44,9 @@ In my current role at **5CA**, I work across Azure, Microsoft Entra ID and Micro
 
 I also work with Microsoft Sentinel, KQL and Defender to investigate alerts, improve detection and support incident response. My security engineering work includes vulnerability assessment, penetration testing, digital forensics, malware analysis and security assessments of AI agents and Model Context Protocol (MCP) servers.
 
-## <a name="skills"><img src="assets/arcade/h-skills.svg" width="1200" height="76" alt="02 - Choose Your Class" /></a>
+## <a name="skills"><img src="assets/arcade/h-skills.svg" width="100%" alt="02 - Choose Your Class" /></a>
 
-<img src="assets/arcade/skill-classes.svg" width="1200" height="280" alt="Animated cyber security classes: Cloud Guard, Signal Hunter, Attack Analyst and Agent Warden." />
+<img src="assets/arcade/skill-classes.svg" width="100%" alt="Animated cyber security classes: Cloud Guard, Signal Hunter, Attack Analyst and Agent Warden." />
 
 <table width="100%" cellpadding="8" cellspacing="0">
 <tr>
@@ -83,7 +83,7 @@ AI agent and MCP server security, prompt-injection assessment, API security and 
 </tr>
 </table>
 
-## <a name="mission-select"><img src="assets/arcade/h-missions.svg" width="1200" height="76" alt="03 - Mission Select" /></a>
+## <a name="mission-select"><img src="assets/arcade/h-missions.svg" width="100%" alt="03 - Mission Select" /></a>
 
 Pick a mission. Every card uses artwork of the same dimensions and an equal two-column layout.
 
@@ -91,7 +91,7 @@ Pick a mission. Every card uses artwork of the same dimensions and an equal two-
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/IoT-Security-Audit-Tool"><img src="assets/arcade/card-iot.svg" width="600" height="146" alt="IoT and OT Auditor - 100 plus security controls" /></a>
+<a href="https://github.com/GarethMSheldon/IoT-Security-Audit-Tool"><img src="assets/arcade/card-iot.svg" width="100%" alt="IoT and OT Auditor - 100 plus security controls" /></a>
 
 **[IoT & OT Security Auditor Suite](https://github.com/GarethMSheldon/IoT-Security-Audit-Tool)**
 
@@ -102,7 +102,7 @@ A modular PowerShell framework for auditing IoT and OT assets. The assessment en
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/TheMSPToolkit"><img src="assets/arcade/card-msp.svg" width="600" height="146" alt="The MSP Toolkit - 60 plus automation functions" /></a>
+<a href="https://github.com/GarethMSheldon/TheMSPToolkit"><img src="assets/arcade/card-msp.svg" width="100%" alt="The MSP Toolkit - 60 plus automation functions" /></a>
 
 **[The MSP Toolkit](https://github.com/GarethMSheldon/TheMSPToolkit)**
 
@@ -115,7 +115,7 @@ A GUI-based PowerShell application using WinForms/WPF, consolidating 60+ automat
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector"><img src="assets/arcade/card-cve.svg" width="600" height="146" alt="CVE Detection Engineering - KQL, YARA and MITRE ATT&CK" /></a>
+<a href="https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector"><img src="assets/arcade/card-cve.svg" width="100%" alt="CVE Detection Engineering - KQL, YARA and MITRE ATT&CK" /></a>
 
 **[CVE Detection Engineering](https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector)**
 
@@ -126,7 +126,7 @@ Detection logic and vulnerability research using KQL, YARA and MITRE ATT&CK mapp
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/mcp-firewall"><img src="assets/arcade/card-mcp.svg" width="600" height="146" alt="MCP Firewall - policy and tool trust boundaries" /></a>
+<a href="https://github.com/GarethMSheldon/mcp-firewall"><img src="assets/arcade/card-mcp.svg" width="100%" alt="MCP Firewall - policy and tool trust boundaries" /></a>
 
 **[MCP Firewall](https://github.com/GarethMSheldon/mcp-firewall)**
 
@@ -139,7 +139,7 @@ A Python-led security project exploring policy enforcement and trust boundaries 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/Network-IDS-Python"><img src="assets/arcade/card-nids.svg" width="600" height="146" alt="Network IDS - real-time network monitoring" /></a>
+<a href="https://github.com/GarethMSheldon/Network-IDS-Python"><img src="assets/arcade/card-nids.svg" width="100%" alt="Network IDS - real-time network monitoring" /></a>
 
 **[Network IDS - Python](https://github.com/GarethMSheldon/Network-IDS-Python)**
 
@@ -150,7 +150,7 @@ A lightweight real-time network intrusion detection project with a Python GUI fo
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection"><img src="assets/arcade/card-forti.svg" width="600" height="146" alt="FortiWeb CVE detector" /></a>
+<a href="https://github.com/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection"><img src="assets/arcade/card-forti.svg" width="100%" alt="FortiWeb CVE detector" /></a>
 
 **[FortiWeb CVE-2025-25257 Detection](https://github.com/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection)**
 
@@ -163,7 +163,7 @@ Detection-focused vulnerability research for Fortinet FortiWeb and its Fabric Co
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection"><img src="assets/arcade/card-unifi.svg" width="600" height="146" alt="UniFi CVE detection" /></a>
+<a href="https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection"><img src="assets/arcade/card-unifi.svg" width="100%" alt="UniFi CVE detection" /></a>
 
 **[UniFi CVE-2026-22557 Detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection)**
 
@@ -174,7 +174,7 @@ A detection project focused on research and defensive identification of CVE-2026
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/GarethMSheldon/Digital-Portfolio"><img src="assets/arcade/card-portfolio.svg" width="600" height="146" alt="Digital Portfolio - security and cloud engineering" /></a>
+<a href="https://github.com/GarethMSheldon/Digital-Portfolio"><img src="assets/arcade/card-portfolio.svg" width="100%" alt="Digital Portfolio - security and cloud engineering" /></a>
 
 **[Digital Portfolio](https://github.com/GarethMSheldon/Digital-Portfolio)**
 
@@ -186,14 +186,14 @@ A separate portfolio project presenting security engineering, cloud architecture
 </tr>
 </table>
 
-## <a name="loot"><img src="assets/arcade/h-loot.svg" width="1200" height="76" alt="04 - Project Vault" /></a>
+## <a name="loot"><img src="assets/arcade/h-loot.svg" width="100%" alt="04 - Project Vault" /></a>
 
 Some more builds are in the vault. Open the inventory to see additional labs and engineering work.
 
 <details>
-<summary><a name="inventory"><img src="assets/arcade/loot-bar.svg" width="1200" height="140" alt="Project Vault - click to open the additional project inventory." /></a></summary>
+<summary><a name="inventory"><img src="assets/arcade/loot-bar.svg" width="100%" alt="Project Vault - click to open the additional project inventory." /></a></summary>
 <br />
-<img src="assets/arcade/loot-open.svg" width="1200" height="250" alt="Animated inventory: forensics, threat intelligence, cloud labs, automation and networks." />
+<img src="assets/arcade/loot-open.svg" width="100%" alt="Animated inventory: forensics, threat intelligence, cloud labs, automation and networks." />
 
 - **[MikroTik Port Scanner Protection](https://github.com/GarethMSheldon/mikrotik-port-scanner-protection):** network-focused defensive tooling.
 - **[MikLink PortToPython](https://github.com/GarethMSheldon/MikLink-PortToPython):** MikroTik and Python integration project.
@@ -211,14 +211,14 @@ Some more builds are in the vault. Open the inventory to see additional labs and
 
 </details>
 
-## <a name="boss"><img src="assets/arcade/h-boss.svg" width="1200" height="76" alt="05 - Boss Stage" /></a>
+## <a name="boss"><img src="assets/arcade/h-boss.svg" width="100%" alt="05 - Boss Stage" /></a>
 
 The boss is never one thing. It is the path between exposed services, excessive privilege, weak telemetry and controls that have not been tested.
 
 <details>
-<summary><a name="bossfight"><img src="assets/arcade/boss-bar.svg" width="1200" height="140" alt="Boss Stage - click to enter the threat landscape." /></a></summary>
+<summary><a name="bossfight"><img src="assets/arcade/boss-bar.svg" width="100%" alt="Boss Stage - click to enter the threat landscape." /></a></summary>
 <br />
-<img src="assets/arcade/boss-fight.svg" width="1200" height="380" alt="Animated cyber arcade boss battle: identity controls, Azure WAF, Sentinel detection and MCP policy defend against threat vectors." />
+<img src="assets/arcade/boss-fight.svg" width="100%" alt="Animated cyber arcade boss battle: identity controls, Azure WAF, Sentinel detection and MCP policy defend against threat vectors." />
 
 **Threats I work to understand and reduce:**
 
@@ -230,7 +230,7 @@ The boss is never one thing. It is the path between exposed services, excessive 
 
 </details>
 
-## <a name="career"><img src="assets/arcade/h-career.svg" width="1200" height="76" alt="07 - Career Experience" /></a>
+## <a name="career"><img src="assets/arcade/h-career.svg" width="100%" alt="07 - Career Experience" /></a>
 
 ### Information Security Engineer | 5CA
 **July 2026 - Present**
@@ -279,7 +279,7 @@ The boss is never one thing. It is the path between exposed services, excessive 
 - Produced financial reports using Sage Pastel 50C and Microsoft Excel.
 - Improved data retrieval workflows and supported client network and device management.
 
-## <a name="stack"><img src="assets/arcade/h-stack.svg" width="1200" height="76" alt="06 - Tech Loadout" /></a>
+## <a name="stack"><img src="assets/arcade/h-stack.svg" width="100%" alt="06 - Tech Loadout" /></a>
 
 <table width="100%" cellpadding="8" cellspacing="0">
 <tr>
@@ -332,7 +332,7 @@ PowerShell, Python, Azure CLI, Bicep, Terraform, Power Automate, Logic Apps, Gra
 </tr>
 </table>
 
-## <a name="certs"><img src="assets/arcade/h-certs.svg" width="1200" height="76" alt="08 - Achievements and Certifications" /></a>
+## <a name="certs"><img src="assets/arcade/h-certs.svg" width="100%" alt="08 - Achievements and Certifications" /></a>
 
 <table width="100%" cellpadding="8" cellspacing="0">
 <tr>
@@ -385,18 +385,22 @@ PowerShell, Python, Azure CLI, Bicep, Terraform, Power Automate, Logic Apps, Gra
 
 [![View credentials on Credly](https://img.shields.io/badge/VIEW_CREDENTIALS-CREDLY-FFD700?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/users/gareth-sheldon)
 
-## <a name="activity"><img src="assets/arcade/h-activity.svg" width="1200" height="76" alt="09 - High Scores and Activity" /></a>
+## <a name="activity"><img src="assets/arcade/h-activity.svg" width="100%" alt="09 - High Scores and Activity" /></a>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GarethMSheldon&show_icons=true&hide_border=true&bg_color=080e16&title_color=39ff14&icon_color=00bfff&text_color=c9d1d9" height="170" alt="GitHub statistics for Gareth Sheldon" />
-<img src="https://streak-stats.demolab.com?user=GarethMSheldon&hide_border=true&background=080e16&ring=39ff14&fire=ffd700&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=8b949e" height="170" alt="GitHub contribution streak" />
+<table width="100%" cellpadding="8" cellspacing="0">
+<tr>
+<td width="50%" valign="top"><img src="https://github-readme-stats.vercel.app/api?username=GarethMSheldon&show_icons=true&hide_border=true&bg_color=080e16&title_color=39ff14&icon_color=00bfff&text_color=c9d1d9" width="100%" alt="GitHub statistics for Gareth Sheldon" /></td>
+<td width="50%" valign="top"><img src="https://streak-stats.demolab.com?user=GarethMSheldon&hide_border=true&background=080e16&ring=39ff14&fire=ffd700&currStreakLabel=00bfff&sideLabels=c9d1d9&dates=8b949e" width="100%" alt="GitHub contribution streak" /></td>
+</tr>
+</table>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GarethMSheldon&bg_color=080e16&color=39ff14&line=00bfff&point=ffd700&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
 
 </div>
 
-## <a name="faq"><img src="assets/arcade/h-faq.svg" width="1200" height="76" alt="10 - System FAQ" /></a>
+## <a name="faq"><img src="assets/arcade/h-faq.svg" width="100%" alt="10 - System FAQ" /></a>
 
 <details>
 <summary><b>What areas do I work across?</b></summary>
@@ -416,7 +420,7 @@ Azure security architecture, application protection, identity attack paths, dete
 Browse the public repositories in Mission Select, visit my portfolio, or review my professional credentials and Hack The Box profile using the links below.
 </details>
 
-## <a name="connect"><img src="assets/arcade/h-connect.svg" width="1200" height="76" alt="11 - Connect Player 001" /></a>
+## <a name="connect"><img src="assets/arcade/h-connect.svg" width="100%" alt="11 - Connect Player 001" /></a>
 
 <div align="center">
 
@@ -426,6 +430,6 @@ Browse the public repositories in Mission Select, visit my portfolio, or review 
 [![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1246812)
 [![GitHub](https://img.shields.io/badge/GITHUB-39FF14?style=for-the-badge&logo=github&logoColor=black)](https://github.com/GarethMSheldon)
 
-<img src="assets/arcade/footer.svg" width="1200" height="100" alt="Gareth Sheldon - end of transmission" />
+<img src="assets/arcade/footer.svg" width="100%" alt="Gareth Sheldon - end of transmission" />
 
 </div>
