@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Gareth Sheldon - SHELLDON.EXE</title>
-<desc id="desc">Retro cyberpunk arcade title screen in neon green, cyan and amber.</desc>
+<title id="title">Gareth Sheldon - Cyber Security Arcade</title>
+<desc id="desc">Cyber security arcade title screen in neon green, cyan and amber.</desc>
 <defs>
   <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
     <path d="M32 0H0V32" fill="none" stroke="#12352c" stroke-width="1"/>
@@ -18,7 +18,7 @@
 <path d="M42 58H1158M42 302H1158" stroke="#1b5940" stroke-width="1"/>
 <circle cx="1040" cy="178" r="100" fill="#00bfff" opacity=".08" filter="url(#soft)"/>
 <g font-family="Consolas,Monaco,monospace">
-  <text x="64" y="82" fill="#39ff14" font-size="18" letter-spacing="4">GARETHMSHELDON // SECURITY ARCADE</text>
+  <text x="64" y="82" fill="#39ff14" font-size="18" letter-spacing="4">GARETH SHELDON // CYBER SECURITY ARCADE</text>
   <text x="62" y="174" fill="#39ff14" opacity=".35" font-size="68" font-weight="bold">GARETH SHELDON</text>
   <text x="58" y="168" fill="#eaffea" font-size="68" font-weight="bold">GARETH SHELDON</text>
   <text x="64" y="216" fill="#00bfff" font-size="23" letter-spacing="3">INFORMATION SECURITY ENGINEER</text>
