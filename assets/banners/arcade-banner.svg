@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">Gareth Sheldon - SHELLDON.EXE</title>
+<desc id="desc">Retro cyberpunk arcade title screen in neon green, cyan and amber.</desc>
+<defs>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#12352c" stroke-width="1"/>
+  </pattern>
+  <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#39ff14" stop-opacity=".14"/>
+    <stop offset="1" stop-color="#00bfff" stop-opacity=".03"/>
+  </linearGradient>
+  <filter id="soft"><feGaussianBlur stdDeviation="7"/></filter>
+</defs>
+<rect width="1200" height="360" rx="18" fill="#080b10"/>
+<rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+<rect width="1200" height="360" rx="18" fill="url(#glow)"/>
+<path d="M24 24H1176V336H24Z" fill="none" stroke="#39ff14" stroke-width="2"/>
+<path d="M42 58H1158M42 302H1158" stroke="#1b5940" stroke-width="1"/>
+<circle cx="1040" cy="178" r="100" fill="#00bfff" opacity=".08" filter="url(#soft)"/>
+<g font-family="Consolas,Monaco,monospace">
+  <text x="64" y="82" fill="#39ff14" font-size="18" letter-spacing="4">GARETHMSHELDON // SECURITY ARCADE</text>
+  <text x="62" y="174" fill="#39ff14" opacity=".35" font-size="68" font-weight="bold">GARETH SHELDON</text>
+  <text x="58" y="168" fill="#eaffea" font-size="68" font-weight="bold">GARETH SHELDON</text>
+  <text x="64" y="216" fill="#00bfff" font-size="23" letter-spacing="3">INFORMATION SECURITY ENGINEER</text>
+  <text x="64" y="266" fill="#a0aab8" font-size="17">CLOUD SECURITY  /  DETECTION ENGINEERING  /  AI SECURITY</text>
+  <text x="64" y="326" fill="#ffd700" font-size="16" letter-spacing="2">[ SYSTEM ONLINE ]  [ PLAYER 001 ]  [ SELECT MISSION ]</text>
+  <g transform="translate(1000 110)" shape-rendering="crispEdges">
+    <path d="M0 20h20V0h80v20h20v80h-20v20H20v-20H0z" fill="#10251e" stroke="#39ff14" stroke-width="3"/>
+    <path d="M30 35h20v20H30zm40 0h20v20H70zM40 78h40v10H40z" fill="#39ff14"/>
+    <path d="M20 130h80v12H20zM35 142h50v12H35z" fill="#00bfff"/>
+  </g>
+</g>
+</svg>
