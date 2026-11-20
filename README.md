@@ -1,213 +1,255 @@
 <div align="center">
 
-<img src="assets/banners/arcade-banner.svg" alt="Gareth Sheldon - SHELLDON.EXE" width="100%">
+<img src="assets/banners/shelldon-banner.svg" alt="SHELLDON.EXE" width="100%">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gareth-sheldon)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=firefox&logoColor=white)](https://linktr.ee/garethmsheldon)
+# `SHELLDON.EXE`
+### GARETH SHELDON // INFORMATION SECURITY ENGINEER
+
+**TURNING FRAGMENTED THREAT DATA INTO RESILIENT, AUDITABLE SECURITY SYSTEMS.**
+
+`[ SYSTEM ONLINE ]` ` [ OPERATOR ACCESS ]` ` [ BUILD 2026.11 ]`
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://v0-garethsheldon.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gareth-sheldon/)
+[![Credly](https://img.shields.io/badge/CREDENTIALS-FFD700?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/users/gareth-sheldon)
 [![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1246812)
-[![Email](https://img.shields.io/badge/EMAIL-00BFFF?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:garethmsheldon@gmail.com)
-
-`SYSTEM ONLINE` // `PLAYER 001` // `SELECT YOUR MISSION`
-
-**Turning fragmented threat data into resilient, auditable security systems.**
 
 </div>
 
 ---
 
-## [ 00 ] PLAYER PROFILE
+## `01 // PLAYER PROFILE`
 
-<img align="right" src="assets/characters/player.svg" width="120" alt="Pixel art player avatar">
+I work across information security, cloud security and technical operations, with a practical focus on turning fragmented telemetry and threat data into security controls that can be tested, audited and improved.
 
-I am an Information Security Engineer working across cloud security architecture, identity governance, application security, threat engineering and security automation. My current work includes Microsoft Azure, Entra ID, Microsoft 365, Azure Front Door and WAF, Microsoft Sentinel, KQL, Defender and infrastructure-as-code.
+My work spans detection engineering, cloud and identity security, vulnerability research, automation, and security tooling. I enjoy working close to the evidence: understanding how an environment behaves, finding where trust breaks down, and building repeatable ways to detect and reduce risk.
 
-I also work on AI agent and Model Context Protocol (MCP) security, with a focus on trust boundaries, prompt-injection risks and the controls surrounding tool execution.
+<img align="right" src="assets/characters/operator.svg" width="160" alt="SHELLDON.EXE operator avatar">
 
-**CURRENT CAMPAIGN:** Information Security Engineer | 5CA | July 2026 - Present
+### CURRENT CAMPAIGN
 
-**SPECIALISATIONS:** Cloud Security / Identity and Zero Trust / Detection Engineering / Application Security / AI Security
+- **Role:** Lead Technical Engineer & Senior Service Desk Engineer
+- **Organisation:** Advania UK (Mirus IT Solutions)
+- **Location:** Cape Town
+- **Period:** July 2025 - Present
+- **Focus:** FinTech security incidents, EDR telemetry, KQL detection, Zero Trust, automation and compliance
 
----
+<br clear="right"/>
 
-## [ 01 ] PLAYER STATISTICS
+## `02 // PLAYER STATS`
 
-| ATTRIBUTE | PLAYER DATA |
-|:--|:--|
-| Industry experience | 5+ years across IT operations, infrastructure and security |
-| Information security focus | 2.5+ years |
-| Azure estate | 20+ subscriptions and 100+ resource groups |
-| Identity environment | Approximately 6,000 managed devices |
-| Enterprise applications | 300+ |
-| Core scripting | Python / PowerShell / Bash |
-| Current focus | Cloud security architecture and AI security |
+<table>
+<tr>
+<td align="center" width="25%"><h2>5 yrs</h2><sub>EXPERIENCE</sub></td>
+<td align="center" width="25%"><h2>30%</h2><sub>BREACH RISK REDUCTION</sub></td>
+<td align="center" width="25%"><h2>35%</h2><sub>MALWARE INCIDENT REDUCTION</sub></td>
+<td align="center" width="25%"><h2>4.85%</h2><sub>HTB GLOBAL TOP</sub></td>
+</tr>
+</table>
 
-<sub>Figures reflect the scope described in my professional experience and are not live telemetry.</sub>
+### GITHUB STATUS
 
----
+`15` PUBLIC REPOSITORIES &nbsp; / &nbsp; `8` STARS &nbsp; / &nbsp; `172` CONTRIBUTIONS IN THE LAST YEAR
 
-## [ 02 ] MISSION SELECT
+[![GitHub profile](https://img.shields.io/badge/REPOSITORIES-15-39FF14?style=flat-square)](https://github.com/GarethMSheldon?tab=repositories)
+[![Stars](https://img.shields.io/badge/STARS-8-FFD700?style=flat-square)](https://github.com/GarethMSheldon?tab=repositories)
+[![Contributions](https://img.shields.io/badge/CONTRIBUTIONS-172-00BFFF?style=flat-square)](https://github.com/GarethMSheldon)
 
-Choose a world to explore. Each mission links to its source repository.
+## `03 // HIGH SCORE TABLE`
 
-### WORLD 01 // SECURITY ENGINEERING
+<div align="center">
 
-| MISSION | OBJECTIVE | LOADOUT |
-|:--|:--|:--|
-| [01 - MCP Firewall](https://github.com/GarethMSheldon/mcp-firewall) | Security controls and policy enforcement for MCP environments. | Python / PowerShell / MCP |
-| [02 - MikroTik Port Scanner Protection](https://github.com/GarethMSheldon/mikrotik-port-scanner-protection) | RouterOS-oriented protection against port scanning. | MikroTik / RouterOS |
-| [03 - IoT Security Audit Tool](https://github.com/GarethMSheldon/IoT-Security-Audit-Tool) | Automated IoT and OT security auditing with 100+ controls. | PowerShell / IEC 62443 / ISO 27001 |
+### HACK THE BOX
 
-### WORLD 02 // DETECTION ENGINEERING
+**SCRIPT KIDDIE**
 
-| MISSION | OBJECTIVE | LOADOUT |
-|:--|:--|:--|
-| [04 - UniFi CVE-2026-22557 Detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection) | Detection research and content for the referenced UniFi vulnerability. | Detection Engineering |
-| [05 - Fortinet CVE-2025-25257 Detection](https://github.com/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection) | Detection research for Fortinet FortiWeb Fabric Connector. | Vulnerability Research |
-| [06 - React2Shell Detector](https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector) | Detection tooling for CVE-2025-55182. | Python / Security Research |
+`RANK #1 / 6 IN SOUTH AFRICA` &nbsp; `TOP 4.85% GLOBALLY` &nbsp; `13 SOLVES`
 
-### WORLD 03 // NETWORK OPERATIONS
+[OPEN PLAYER PROFILE](https://app.hackthebox.com/users/1246812)
 
-| MISSION | OBJECTIVE | LOADOUT |
-|:--|:--|:--|
-| [07 - MikLink PortToPython](https://github.com/GarethMSheldon/MikLink-PortToPython) | MikroTik port and cable diagnostics tooling. | Python / MikroTik |
-| [08 - Network IDS Python](https://github.com/GarethMSheldon/Network-IDS-Python) | Python-based network intrusion detection project. | Python / Networking |
-| [09 - The MSP Toolkit](https://github.com/GarethMSheldon/TheMSPToolkit) | GUI-based PowerShell diagnostics and repair toolkit with 60+ functions. | PowerShell / WinForms |
+</div>
 
-### WORLD 04 // CLOUD AND INFRASTRUCTURE SECURITY
-
-| MISSION | OBJECTIVE | LOADOUT |
-|:--|:--|:--|
-| [10 - Digital Portfolio](https://github.com/GarethMSheldon/Digital-Portfolio) | Professional portfolio and technical work showcase. | Web / Portfolio |
-
-### WORLD 05 // EXPERIMENTAL RESEARCH
-
-| MISSION | OBJECTIVE | LOADOUT |
-|:--|:--|:--|
-| [11 - Neural BCI Firewall](https://github.com/GarethMSheldon/neural-bci-firewall-conceptual) | Conceptual security research for brain-computer interface systems. | BCI / Security Research |
-
----
-
-## [ 03 ] ACTIVE CAMPAIGN // CAREER
-
-### INFORMATION SECURITY ENGINEER
-**5CA | July 2026 - Present**
-
-- Secure Microsoft Entra ID and Microsoft 365 environments, including an identity tenant with approximately 6,000 managed devices, 131 Conditional Access policies and more than 300 enterprise applications.
-- Work across 20+ Azure subscriptions and 100+ resource groups, including Azure Virtual Desktop environments.
-- Design and improve Azure security architecture, Azure Front Door and Web Application Firewall policies, origin restrictions and application protection.
-- Implement identity governance and privileged access controls using Entra ID PIM, Azure RBAC and Conditional Access.
-- Build and improve security automation using PowerShell, Azure CLI, Logic Apps, Bicep and Terraform.
-- Develop KQL detection logic and investigate alerts using Microsoft Sentinel and Defender.
-- Assess AI agent and MCP server security, including prompt-injection risks and tool execution trust boundaries.
-
-### COMPLETED LEVEL // LEAD TECHNICAL ENGINEER AND SENIOR SERVICE DESK ENGINEER
-**Advania UK | July 2025 - July 2026**
-
-- Configured cross-tenant synchronisation and governance across more than five Microsoft tenants.
-- Managed Entra ID, hybrid identity, Intune, Conditional Access and SAML SSO.
-- Improved Microsoft Sentinel monitoring, threat detection and incident investigation.
-- Engineered Cisco routing, switching, firewalls and VPN infrastructure.
-- Built Power Automate and Microsoft Graph API integrations for operational workflows.
-
-### COMPLETED LEVEL // SENIOR TECHNICAL AND CYBERSECURITY ENGINEER
-**Gavotech IT Solutions | May 2024 - June 2025**
-
-- Performed penetration testing and vulnerability assessments across applications, networks and infrastructure.
-- Supported incident response, malware investigations and digital forensics.
-- Administered Sophos and FortiGate security infrastructure.
-- Worked with Autopsy, FTK, SANS SIFT, Nessus, Qualys and Greenbone.
-
-### COMPLETED LEVEL // TECHNICAL ENGINEER
-**Gavotech IT Solutions | May 2022 - May 2024**
-
-- Managed more than 500 devices across Windows, macOS and Linux.
-- Administered endpoint security, firewalls, VPNs and Windows Server environments.
-- Improved system efficiency by 20% and reduced malware incidents by 35%, as recorded in my CV.
-
----
-
-## [ 04 ] PLAYER LOADOUT
-
-| DOMAIN | EQUIPMENT |
-|:--|:--|
-| Cloud and Identity | Azure / Entra ID / Conditional Access / PIM / RBAC / Azure Front Door / WAF / Key Vault |
-| SIEM and SOC | Microsoft Sentinel / KQL / Defender / Wazuh / MISP / TheHive / Shuffle |
-| AI and Application Security | MCP / OWASP Top 10 for LLM Applications / API security / prompt-injection assessment |
-| Detection and Threat Hunting | YARA / MITRE ATT&CK / IOC analysis / threat hunting / incident response |
-| Offensive Security | Kali Linux / Burp Suite / Nmap / Nessus / Qualys / Greenbone |
-| Network Security | FortiGate / Sophos / Cisco / IPsec / VPN / DNS / DHCP |
-| Automation and IaC | Python / PowerShell / Bash / Azure CLI / Bicep / Terraform / Logic Apps |
-| Containers and Networking | Docker / Kubernetes / Cilium / Hubble |
-
----
-
-## [ 05 ] ACHIEVEMENTS UNLOCKED
-
-### GOVERNANCE AND COMPLIANCE
-- ISO/IEC 27001:2022 Lead Auditor - Mastermind Assurance
-- ISO/IEC 27001 Information Security Associate - SkillFront
-- IT Audit and Risk Management Specialist - Mastermind Assurance
-
-### DEFENSIVE SECURITY AND FORENSICS
-- Blue Team Junior Analyst - Security Blue Team
-- DFIR Foundations and Techniques - Blue Cape Security
-- Tenable Vulnerability Management Specialist - Tenable
-- Foundations of Operationalising MITRE ATT&CK - AttackIQ
-- OPSWAT Introduction to Critical Infrastructure Protection
-
-### CLOUD AND INFRASTRUCTURE
-- Microsoft Applied Skills: Deploy and Configure Azure Monitor
-- Microsoft Applied Skills: Administer Active Directory Domain Services
-- AWS Cloud Technology Consultant Specialisation
-- Certified Calico Operator Level 1 - Tigera
-- Fortinet FortiGate 7.6 Operator
-
-### NETWORK AND ENDPOINT SECURITY
-- Fortinet Certified Associate - Cybersecurity
-- Sophos Firewall Certified Engineer
-- HPE Aruba Networking Product Specialist - SSE
-- SentinelOne N-able EDR Learning Path
-
-### DEVELOPMENT AND TECHNICAL FOUNDATIONS
-- Scientific Computing with Python - freeCodeCamp
-- HackerRank Python (Basic)
-- API Security Fundamentals - APIsec University
-- Google IT Support Professional Certificate
-
----
-
-## [ 06 ] HIGH SCORE TABLE // HACK THE BOX
-
-**Previously recorded profile statistics:** Script Kiddie / Top 4.85% globally / 13 solves.
-
-| CHALLENGE | TYPE | RESULT | DATE |
-|:--|:--|:--|:--|
+| Challenge | Type | Result | Date |
+|---|---|---|---|
 | Conversor | Machine | User + Root | Nov 2025 |
 | RomCom | Sherlock | Full | Nov 2025 |
 | Expressway | Machine | User + Root | Nov 2025 |
 | Brutus | Sherlock | Full | Dec 2024 |
 | UnderPass / Cap | Machines | User + Root | Dec 2024 |
-| 8 Challenges | Challenges | Flags captured | Nov 2025 |
+| 8x Challenges | Flags | Captured | Nov 2025 |
 
-[VIEW HACK THE BOX PROFILE](https://app.hackthebox.com/users/1246812)
+<sub>HTB statistics and challenge records are the profile figures supplied for this README and may change over time.</sub>
 
----
+## `04 // MISSION SELECT`
 
-## [ 07 ] PLAYER CONNECT // CONTACT
+Selected builds, security tooling and research projects. Open each repository for source code, implementation details and current project status.
 
-| CHANNEL | DESTINATION |
-|:--|:--|
-| GitHub | [GarethMSheldon](https://github.com/GarethMSheldon) |
-| LinkedIn | [Gareth Sheldon](https://linkedin.com/in/gareth-sheldon) |
-| Portfolio | [garethmsheldon](https://linktr.ee/garethmsheldon) |
-| Email | [garethmsheldon@gmail.com](mailto:garethmsheldon@gmail.com) |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [IoT & OT Security Auditor Suite](https://github.com/GarethMSheldon/IoT-Security-Audit-Tool)
+<img src="assets/missions/network.svg" width="100%" alt="IoT and OT security mission">
+
+PowerShell toolkit for IoT/OT security audits, with 100+ controls, a 0-100 risk score and multi-framework compliance mapping.
+
+`POWERSHELL` `ISO 27001` `IEC 62443` `PCI-DSS` `HIPAA` `GDPR` `MDE`
+
+</td>
+<td width="50%" valign="top">
+
+### [The MSP Toolkit](https://github.com/GarethMSheldon/TheMSPToolkit)
+<img src="assets/missions/mcp.svg" width="100%" alt="MSP toolkit mission">
+
+GUI PowerShell suite for MSP technicians, with 60+ one-click diagnostic and repair functions and real-time colour-coded logging.
+
+`POWERSHELL` `WINDOWS FORMS` `ACTIVE DIRECTORY` `M365`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CVE Detection Engineering Initiative](https://github.com/GarethMSheldon/React2Shell-CVE-2025-55182-Detector)
+
+KQL queries, YARA rules and CVE-to-MITRE ATT&CK mapping for emerging vulnerabilities. Published detector projects include CVE-2025-55182 and CVE-2025-60787.
+
+`KQL` `YARA` `SENTINEL` `MITRE ATT&CK`
+
+</td>
+<td width="50%" valign="top">
+
+### SOC Threat Intelligence Pipeline
+
+Honeypot, MISP and Microsoft Sentinel pipeline concept using a Python Azure Function App to ingest STIX/TAXII feeds into Log Analytics for IOC correlation.
+
+`PYTHON` `KQL` `MISP` `STIX/TAXII` `AZURE FUNCTIONS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Security Observability Dashboard
+
+Grafana platform integrating SentinelOne EDR, Sophos Firewall and Datto RMM through Python for unified endpoint and network visibility.
+
+`GRAFANA` `LOKI` `PROMQL` `PYTHON` `SENTINELONE` `SOPHOS`
+
+</td>
+<td width="50%" valign="top">
+
+### Enterprise Azure Monitor
+
+Azure observability design covering Log Analytics, AMA, DCRs, Application Insights, Network Watcher, NSG diagnostics and automated Action Groups.
+
+`AZURE MONITOR` `AMA` `DCR` `KQL` `APP INSIGHTS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [MCP Firewall](https://github.com/GarethMSheldon/mcp-firewall)
+
+Python-led security project exploring policy enforcement and trust boundaries around Model Context Protocol tool interactions.
+
+`PYTHON` `POWERSHELL` `MCP` `AI SECURITY`
+
+</td>
+<td width="50%" valign="top">
+
+### [Network IDS - Python](https://github.com/GarethMSheldon/Network-IDS-Python)
+
+Lightweight real-time network intrusion detection system with a Python GUI for monitoring connections and identifying suspicious activity.
+
+`PYTHON` `NETWORK IDS` `WINDOWS` `LINUX`
+
+</td>
+</tr>
+</table>
+
+### MORE MISSIONS
+
+- [MikroTik Port Scanner Protection](https://github.com/GarethMSheldon/mikrotik-port-scanner-protection)
+- [MikLink PortToPython](https://github.com/GarethMSheldon/MikLink-PortToPython)
+- [UniFi CVE-2026-22557 Detection](https://github.com/GarethMSheldon/cve-2026-22557-unifi-detection)
+- [Fortinet FortiWeb CVE-2025-25257 Detection](https://github.com/GarethMSheldon/Fortinet-FortiWeb-Fabric-Connector-CVE-2025-25257-Detection)
+- [Digital Portfolio](https://github.com/GarethMSheldon/Digital-Portfolio)
+- [Neural BCI Firewall - Conceptual](https://github.com/GarethMSheldon/neural-bci-firewall-conceptual)
+
+## `05 // ACTIVE CAMPAIGN`
+
+### Lead Technical Engineer & Senior Service Desk Engineer
+**Advania UK (Mirus IT Solutions) | Cape Town | July 2025 - Present**
+
+- Act as an escalation point for complex FinTech security incidents, working with EDR telemetry, log analysis and root cause analysis.
+- Engineer KQL detection rules and conduct threat hunts across hybrid environments, including Defender for Cloud Apps.
+- Implement Zero Trust controls using Conditional Access and SAML SSO to reduce lateral movement opportunities.
+- Automate SOC workflows using Power Automate and Microsoft Graph API, integrating Sentinel, Jira and Salesforce.
+- Support ISO 27001 and Cyber Essentials compliance, with a reported 99.999% SLA adherence.
+
+## `06 // PLAYER LOADOUT`
+
+| DOMAIN | TOOLS & TECHNOLOGIES |
+|---|---|
+| Penetration Testing | Nmap, Burp Suite, OWASP ZAP, Nikto, SQLmap, Metasploit, Hydra, ffuf |
+| SIEM & SOC | Microsoft Sentinel, Wazuh, KQL, MISP, STIX/TAXII, TheHive, Shuffle |
+| Cloud Security | Azure Monitor, Log Analytics, Entra ID, Conditional Access, AWS IAM, EC2 |
+| Scripting & Automation | PowerShell, Python, Bash, Power Automate, Graph API |
+| Vulnerability Management | Nessus, Qualys, Greenbone GVM, Tenable, YARA, CVE triage |
+| Digital Forensics | Autopsy, FTK, SANS SIFT, disk imaging, IOC extraction |
+| Network Security | Sophos XG, FortiGate, Cisco, Wireshark, tcpdump, SD-WAN, IPsec |
+| GRC & Compliance | ISO 27001, Cyber Essentials, PCI-DSS, GDPR, NIST CSF |
+| Containers & Infrastructure | Docker, Kubernetes, Cilium, Terraform, Ansible, CI/CD |
+
+## `07 // ACHIEVEMENTS UNLOCKED`
+
+Selected certifications and technical credentials:
+
+- ISO/IEC 27001:2022 Lead Auditor
+- Fortinet Certified Associate Cybersecurity
+- Microsoft Applied Skills: Administer Active Directory Domain Services
+- Microsoft Applied Skills: Deploy and Configure Azure Monitor
+- Tenable Vulnerability Management Specialist
+- Sophos MSP01
+- OPSWAT ICIP
+- DFIR Foundations
+- Additional Microsoft, AWS, Python and security training
+
+[![View all credentials on Credly](https://img.shields.io/badge/VIEW_ALL_CREDENTIALS-Credly-FFD700?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/users/gareth-sheldon)
+
+## `08 // SYSTEM DIAGNOSTICS`
+
+<details>
+<summary><b>What is your security philosophy?</b></summary>
+
+Security is an engineering discipline. I focus on understanding the environment, validating assumptions, measuring whether controls work and making the result auditable.
+</details>
+
+<details>
+<summary><b>What are you exploring?</b></summary>
+
+Cloud identity attack paths, threat intelligence pipelines, detection engineering, vulnerability research and security boundaries for AI agents and MCP tools.
+</details>
+
+<details>
+<summary><b>Where can I find your work?</b></summary>
+
+Start with the Mission Select repositories, then visit the portfolio and Credly links above.
+</details>
+
+## `09 // ESTABLISH CONNECTION`
 
 <div align="center">
 
-`THANK YOU FOR PLAYING`
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://v0-garethsheldon.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gareth-sheldon/)
+[![Credly](https://img.shields.io/badge/CREDLY-FFD700?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/users/gareth-sheldon)
+[![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1246812)
 
-**GARETH SHELDON // SHELLDON.EXE**
+`END OF TRANSMISSION // SHELLDON.EXE`
 
-<sub>Security is a process. Build systems that fail securely and recover gracefully.</sub>
+<img src="assets/banners/footer.svg" width="100%" alt="End of transmission">
 
 </div>
