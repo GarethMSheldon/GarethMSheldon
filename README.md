@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/banners/shelldon-banner.svg" alt="SHELLDON.EXE" width="100%">
+<img src="assets/banners/arcade-banner.svg" alt="Gareth Sheldon - Cyber Security Arcade" width="100%">
 
-# `SHELLDON.EXE`
-### GARETH SHELDON // INFORMATION SECURITY ENGINEER
+# Gareth Sheldon
+### INFORMATION SECURITY ENGINEER // CYBER ARCADE PROFILE
 
 **TURNING FRAGMENTED THREAT DATA INTO RESILIENT, AUDITABLE SECURITY SYSTEMS.**
 
-`[ SYSTEM ONLINE ]` ` [ OPERATOR ACCESS ]` ` [ BUILD 2026.11 ]`
+`[ SYSTEM ONLINE ]` ` [ CYBER ARCADE ]` ` [ PLAYER 001 ]`
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-39FF14?style=for-the-badge&logo=vercel&logoColor=black)](https://v0-garethsheldon.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-00BFFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gareth-sheldon/)
@@ -24,7 +24,7 @@ I work across information security, cloud security and technical operations, wit
 
 My work spans detection engineering, cloud and identity security, vulnerability research, automation, and security tooling. I enjoy working close to the evidence: understanding how an environment behaves, finding where trust breaks down, and building repeatable ways to detect and reduce risk.
 
-<img align="right" src="assets/characters/operator.svg" width="160" alt="SHELLDON.EXE operator avatar">
+<img align="right" src="assets/characters/operator.svg" width="160" alt="Gareth Sheldon operator avatar">
 
 ### CURRENT CAMPAIGN
 
@@ -248,7 +248,7 @@ Start with the Mission Select repositories, then visit the portfolio and Credly 
 [![Credly](https://img.shields.io/badge/CREDLY-FFD700?style=for-the-badge&logo=credly&logoColor=black)](https://www.credly.com/users/gareth-sheldon)
 [![Hack The Box](https://img.shields.io/badge/HACK_THE_BOX-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/users/1246812)
 
-`END OF TRANSMISSION // SHELLDON.EXE`
+`END OF TRANSMISSION // GARETH SHELDON`
 
 <img src="assets/banners/footer.svg" width="100%" alt="End of transmission">
 
